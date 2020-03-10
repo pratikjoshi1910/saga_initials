@@ -1,0 +1,9 @@
+/.metadata/
+**/target
+**/build
+/**/.classpath
+/**/.project
+/**/.settings
+**/mvnw
+**/.mvn
+/**/.gitignore
